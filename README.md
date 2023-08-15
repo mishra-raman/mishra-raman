@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Raman Mishra</h1>
 <h3 align="center">A passionate Technopreneur looking for real world projects!</h3>
 
-- 🌱 I’m currently learning **Machine Learning, AWS, Kubernetes, Docker,and Jenkins**
+- 🌱 I’m currently learning **Machine Learning, AWS, Kubernetes, Docker, and Jenkins**
 
-- 💬 Ask me about **Python, Machine Learning and Hindu Mythology**
+- 💬 Ask me about **Python, Machine Learning, or Hindu Mythology**
 
 - 📫 How to reach me **mishraraman94us@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q3ALOdU_RO4_ujFr6tOVDVurkIRgGuVG/view?usp=sharing](https://drive.google.com/file/d/1Q3ALOdU_RO4_ujFr6tOVDVurkIRgGuVG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Q3ALOdU_RO4_ujFr6tOVDVurkIRgGuVG/view?usp=sharing)
 
 - ⚡ Fun fact **My code editor theme is inspired by the Northern Lights!**
 
