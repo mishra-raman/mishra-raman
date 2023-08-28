@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mishraraman94us@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Q3ALOdU_RO4_ujFr6tOVDVurkIRgGuVG/view?usp=sharing)
+- 📄 Know about my experiences [Resume]((https://drive.google.com/file/d/1VHIDXfC8FKcj4rZ0qSIsk2a_R38Xg9k6/view?usp=sharing))
 
 - ⚡ Fun fact **My code editor theme is inspired by the Northern Lights!**
 
